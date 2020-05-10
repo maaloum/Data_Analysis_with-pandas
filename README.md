@@ -1,2 +1,2 @@
-# Data_Analyis_with-pandas
+# Data_Analysis_with-pandas
 Project aims to analyse data with pandas
